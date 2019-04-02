@@ -1,2 +1,6 @@
 # hello-word
-Just git first
+
+Hi everyone
+
+This is my git first by NhuanBui
+
